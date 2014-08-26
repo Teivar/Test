@@ -23,3 +23,7 @@ class ViewController: UIViewController {
 
 }
 
+class my {
+    
+}
+
